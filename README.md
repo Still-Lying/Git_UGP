@@ -1,2 +1,4 @@
 # Information
-123
+
+Game - сама игра
+Documentation - документация
