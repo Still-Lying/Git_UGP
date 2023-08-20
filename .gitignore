@@ -11,9 +11,16 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+Game/BrokenMirror/Temp/
+Game/BrokenMirror/Library/
+Game/BrokenMirror/Recordings/
+Game/BrokenMirror/Builds/
+Game/BrokenMirror/Logs/
+Game/BrokenMirror/MemoryCaptures/
+Game/BrokenMirror/Obj/
+Game/BrokenMirror/Release
 
-/Temp/
-/Recordings/
+
 
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
