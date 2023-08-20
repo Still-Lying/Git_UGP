@@ -13,7 +13,7 @@ namespace CodeBase.Infrastructure
         {
             _game = new Game();
             
-            DontDestroyOnLoad(this);
+            DontDestroyOnLoad(this); 
         }
     }
 }
